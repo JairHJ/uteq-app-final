@@ -1,0 +1,10 @@
+Entra a CMD y usar comando 'ipconfig' para obtener la ipv4 
+de nuestra computadora y cambiarlo en los siguientes campos
+-----------------------------------------------------------
+Cambiar IP en RegisterScreen.js
+Cambiar IP en LoginScreen.js
+
+-----------------------------------------------------------
+
+Iniciar server.js ubicacado en 'cd api-server'
+con el comando 'node server.js'
