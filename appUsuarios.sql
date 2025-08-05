@@ -17,3 +17,6 @@ CREATE TABLE reportes (
     longitud DECIMAL(11, 8) NOT NULL,
     fecha TIMESTAMP DEFAULT CURRENT_TIMESTAMP
     );
+
+ALTER TABLE reportes MODIFY COLUMN nivel VARCHAR(10);
+ALTER TABLE usuarios ADD COLUMN expo_push_token VARCHAR(255);
