@@ -73,6 +73,3 @@ npx expo start
 - Si tienes problemas con dependencias, ejecuta `npm install` en cada carpeta (`api-server` y `mi-aplicacion`).
 
 ---
-
-## Contacto
-Para dudas o soporte, contacta a JairHJ o abre un issue en este repositorio.
